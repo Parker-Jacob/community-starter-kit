@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+welcome to my learning experience
